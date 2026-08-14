@@ -106,7 +106,7 @@
             "last_commit": "2023-01-18T17:26:59Z",
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7256
+            "stars": 7258
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2022-12-10T16:22:15Z",
             "owner": "facebookresearch",
             "repo": "VideoPose3D",
-            "stars": 4052
+            "stars": 4051
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2023-07-10T13:41:54Z",
             "owner": "akanazawa",
             "repo": "hmr",
-            "stars": 1665
+            "stars": 1666
           }
         },
         {
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:34:39.756Z",
+    "last_updated": "2026-08-14T15:27:11.737Z",
     "original_repository": "derikon/awesome-human-motion",
     "original_repository_sha": "585176d187aa14155af97eecd5747e5597e3c3da",
     "enhanced_repository": "enhansome/enhansome-human-motion",
