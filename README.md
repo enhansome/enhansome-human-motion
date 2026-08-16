@@ -73,7 +73,7 @@
 
 ### Implementations
 
-* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,592 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
+* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,593 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 * [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) ⚠️ Archived - Efficient 3D human pose estimation in video using 2D keypoint trajectorie.
 * [Human Shape and Pose](https://github.com/akanazawa/hmr) ⭐ 1,666 | 🐛 19 | 🌐 Python | 📅 2023-07-10 -  End-to-end Recovery of Human Shape and Pose - CVPR 2018
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
