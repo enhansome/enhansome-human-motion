@@ -1,574 +1,594 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Unity Humanoid Mocap CSV",
+              "description": "Use .csv files to record, play and evaluate motion capture data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87089120,
+                "language": "C#",
+                "last_commit": "2021-07-30T09:19:51Z",
+                "owner": "mariusrubo",
+                "repo": "Unity-Humanoid-Mocap-CSV",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KinectMotionCapture",
+              "description": "A simple software for capturing human body movements using the Kinect camera.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63496356,
+                "language": "C#",
+                "last_commit": "2016-07-27T11:23:36Z",
+                "owner": "apalkowski",
+                "repo": "KinectMotionCapture",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Recording"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "video to bvh",
+              "description": "Convert human motion from video to .bvh.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159657540,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-06-17T20:20:46Z",
+                "owner": "Dene33",
+                "repo": "video_to_bvh",
+                "stars": 401
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MotionCapturePy",
+              "description": "Converts motion capture data from ASF and AMC files to Cartesian numpy arrays in python. Also plots a moving human frame using matplotlib.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104623391,
+                "language": "Python",
+                "last_commit": "2017-09-24T06:35:08Z",
+                "owner": "taiyoshoe",
+                "repo": "MotionCapturePy",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Conversion"
+        }
+      ],
       "title": "Data Processing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Unity Humanoid Mocap CSV",
-          "description": "Use .csv files to record, play and evaluate motion capture data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2021-07-30T09:19:51Z",
-            "owner": "mariusrubo",
-            "repo": "Unity-Humanoid-Mocap-CSV",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KinectMotionCapture",
-          "description": "A simple software for capturing human body movements using the Kinect camera.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2016-07-27T11:23:36Z",
-            "owner": "apalkowski",
-            "repo": "KinectMotionCapture",
-            "stars": 5
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AlphaPose",
+              "description": "Real-Time and Accurate Multi-Person Pose Estimation&Tracking System.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117772329,
+                "language": "Python",
+                "last_commit": "2024-05-13T14:33:34Z",
+                "owner": "MVIG-SJTU",
+                "repo": "AlphaPose",
+                "stars": 8594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DensePose",
+              "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 136069311,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-01-18T17:26:59Z",
+                "owner": "facebookresearch",
+                "repo": "DensePose",
+                "stars": 7258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VideoPose3D",
+              "description": "Efficient 3D human pose estimation in video using 2D keypoint trajectorie.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 153697606,
+                "language": "Python",
+                "last_commit": "2022-12-10T16:22:15Z",
+                "owner": "facebookresearch",
+                "repo": "VideoPose3D",
+                "stars": 4051
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Human Shape and Pose",
+              "description": "End-to-end Recovery of Human Shape and Pose - CVPR 2018",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114591486,
+                "language": "Python",
+                "last_commit": "2023-07-10T13:41:54Z",
+                "owner": "akanazawa",
+                "repo": "hmr",
+                "stars": 1666
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3d-pose-baseline",
+              "description": "A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88918009,
+                "language": "Python",
+                "last_commit": "2020-09-26T02:27:50Z",
+                "owner": "una-dinosauria",
+                "repo": "3d-pose-baseline",
+                "stars": 1458
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3Dpose_ssl",
+              "description": "3D Human Pose Machines with Self-supervised Learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165025912,
+                "language": "C++",
+                "last_commit": "2020-02-07T20:27:38Z",
+                "owner": "chanyn",
+                "repo": "3Dpose_ssl",
+                "stars": 414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3d_pose_baseline_pytorch",
+              "description": "A simple baseline for 3d human pose estimation in PyTorch.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 125612584,
+                "language": "Python",
+                "last_commit": "2019-04-10T10:26:18Z",
+                "owner": "weigq",
+                "repo": "3d_pose_baseline_pytorch",
+                "stars": 379
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3dpose_gan",
+              "description": "The authors' implementation of Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127734069,
+                "language": "Python",
+                "last_commit": "2018-07-12T03:57:55Z",
+                "owner": "DwangoMediaVillage",
+                "repo": "3dpose_gan",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3D-HourGlass-Network",
+              "description": "3D HourGlass Networks for Human Pose Estimation Through Videos.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127304719,
+                "language": "Python",
+                "last_commit": "2018-10-28T19:34:42Z",
+                "owner": "Naman-ntc",
+                "repo": "3D-HourGlass-Network",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3d-pose-estimation",
+              "description": "VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106083091,
+                "language": "Python",
+                "last_commit": "2017-10-31T16:58:42Z",
+                "owner": "latte0",
+                "repo": "3d-pose-estimation",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adversarially_parameterized_optimization",
+              "description": "GAN-based 3D human pose estimation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102816477,
+                "language": "Python",
+                "last_commit": "2017-11-21T00:47:17Z",
+                "owner": "jackd",
+                "repo": "adversarially_parameterized_optimization",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Implementations"
         }
       ],
-      "title": "Recording"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "video to bvh",
-          "description": "Convert human motion from video to .bvh.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2019-06-17T20:20:46Z",
-            "owner": "Dene33",
-            "repo": "video_to_bvh",
-            "stars": 401
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MotionCapturePy",
-          "description": "Converts motion capture data from ASF and AMC files to Cartesian numpy arrays in python. Also plots a moving human frame using matplotlib.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-09-24T06:35:08Z",
-            "owner": "taiyoshoe",
-            "repo": "MotionCapturePy",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Data Conversion"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Pose Estimation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "AlphaPose",
-          "description": "Real-Time and Accurate Multi-Person Pose Estimation&Tracking System.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-13T14:33:34Z",
-            "owner": "MVIG-SJTU",
-            "repo": "AlphaPose",
-            "stars": 8594
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DensePose",
-          "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-01-18T17:26:59Z",
-            "owner": "facebookresearch",
-            "repo": "DensePose",
-            "stars": 7258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VideoPose3D",
-          "description": "Efficient 3D human pose estimation in video using 2D keypoint trajectorie.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-12-10T16:22:15Z",
-            "owner": "facebookresearch",
-            "repo": "VideoPose3D",
-            "stars": 4051
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Human Shape and Pose",
-          "description": "End-to-end Recovery of Human Shape and Pose - CVPR 2018",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-10T13:41:54Z",
-            "owner": "akanazawa",
-            "repo": "hmr",
-            "stars": 1666
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3d-pose-baseline",
-          "description": "A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-26T02:27:50Z",
-            "owner": "una-dinosauria",
-            "repo": "3d-pose-baseline",
-            "stars": 1458
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3Dpose_ssl",
-          "description": "3D Human Pose Machines with Self-supervised Learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-02-07T20:27:38Z",
-            "owner": "chanyn",
-            "repo": "3Dpose_ssl",
-            "stars": 414
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3d_pose_baseline_pytorch",
-          "description": "A simple baseline for 3d human pose estimation in PyTorch.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-04-10T10:26:18Z",
-            "owner": "weigq",
-            "repo": "3d_pose_baseline_pytorch",
-            "stars": 379
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3dpose_gan",
-          "description": "The authors' implementation of Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-07-12T03:57:55Z",
-            "owner": "DwangoMediaVillage",
-            "repo": "3dpose_gan",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3D-HourGlass-Network",
-          "description": "3D HourGlass Networks for Human Pose Estimation Through Videos.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-10-28T19:34:42Z",
-            "owner": "Naman-ntc",
-            "repo": "3D-HourGlass-Network",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3d-pose-estimation",
-          "description": "VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-10-31T16:58:42Z",
-            "owner": "latte0",
-            "repo": "3d-pose-estimation",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "adversarially_parameterized_optimization",
-          "description": "GAN-based 3D human pose estimation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-11-21T00:47:17Z",
-            "owner": "jackd",
-            "repo": "adversarially_parameterized_optimization",
-            "stars": 17
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GaitAnalysisToolKit",
+              "description": "Tools for the Cleveland State Human Motion and Control Lab.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14959373,
+                "language": "Python",
+                "last_commit": "2025-03-15T06:11:02Z",
+                "owner": "csu-hmc",
+                "repo": "GaitAnalysisToolKit",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sensormotion",
+              "description": "Python package for analyzing sensor-collected human motion data (e.g. physical activity levels, gait dynamics).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130158177,
+                "language": "Python",
+                "last_commit": "2025-05-18T10:34:04Z",
+                "owner": "thesimonho",
+                "repo": "sensormotion",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Human-detection-system-with-raspberry-Pi",
+              "description": "A motion detection system with RaspberryPi, OpenCV, Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67869563,
+                "language": "Python",
+                "last_commit": "2018-01-28T06:07:05Z",
+                "owner": "OmalPerera",
+                "repo": "Human-detection-system-with-raspberry-Pi",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Posture and Fall Detection System Using 3D Motion Sensors",
+              "description": "This work presents a supervised learning approach for training a posture detection classifier, and implementing a fall detection system using the posture classification results as inputs with a Microsoft Kinect v2 sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134308271,
+                "language": "Python",
+                "last_commit": "2018-06-05T20:03:54Z",
+                "owner": "Health-Devices-Research-Group",
+                "repo": "Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "motion classification",
+              "description": "The code written during my Bachelor Thesis \"Classification of Human Whole-Body Motion using Hidden Markov Models\".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50024701,
+                "language": "Python",
+                "last_commit": "2016-07-11T12:53:28Z",
+                "owner": "matthiasplappert",
+                "repo": "motion-classification",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "humanMotionClassification",
+              "description": "Experiments in classifying human actions using the UCF action databased.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82481069,
+                "language": "Python",
+                "last_commit": "2017-03-09T07:36:09Z",
+                "owner": "ltecot",
+                "repo": "humanMotionClassification",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "human motion classification",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117341891,
+                "language": "Python",
+                "last_commit": "2018-01-31T20:31:30Z",
+                "owner": "kubapok",
+                "repo": "human-motion-classification",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "motion visualization",
+              "description": "A simple visualizer for human whole-body motion using three.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51601906,
+                "language": "HTML",
+                "last_commit": "2016-02-12T17:31:49Z",
+                "owner": "matthiasplappert",
+                "repo": "motion-visualization",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HumanMotionVisualiser",
+              "description": "This project is for visualising human motion data captured from Kinect V2 for further data analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167756319,
+                "language": "C#",
+                "last_commit": "2019-02-17T02:27:10Z",
+                "owner": "BayesTech",
+                "repo": "HumanMotionVisualiser",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "human motion analysis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71708638,
+                "language": "Jupyter Notebook",
+                "last_commit": "2016-10-23T14:44:53Z",
+                "owner": "dfsdfb",
+                "repo": "human-motion-analysis",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Implementations"
         }
       ],
-      "title": "Implementations"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Motion Analysis"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "GaitAnalysisToolKit",
-          "description": "Tools for the Cleveland State Human Motion and Control Lab.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-15T06:11:02Z",
-            "owner": "csu-hmc",
-            "repo": "GaitAnalysisToolKit",
-            "stars": 121
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sensormotion",
-          "description": "Python package for analyzing sensor-collected human motion data (e.g. physical activity levels, gait dynamics).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-18T10:34:04Z",
-            "owner": "thesimonho",
-            "repo": "sensormotion",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Human-detection-system-with-raspberry-Pi",
-          "description": "A motion detection system with RaspberryPi, OpenCV, Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-01-28T06:07:05Z",
-            "owner": "OmalPerera",
-            "repo": "Human-detection-system-with-raspberry-Pi",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Posture and Fall Detection System Using 3D Motion Sensors",
-          "description": "This work presents a supervised learning approach for training a posture detection classifier, and implementing a fall detection system using the posture classification results as inputs with a Microsoft Kinect v2 sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-06-05T20:03:54Z",
-            "owner": "Health-Devices-Research-Group",
-            "repo": "Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "motion classification",
-          "description": "The code written during my Bachelor Thesis \"Classification of Human Whole-Body Motion using Hidden Markov Models\".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-07-11T12:53:28Z",
-            "owner": "matthiasplappert",
-            "repo": "motion-classification",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "humanMotionClassification",
-          "description": "Experiments in classifying human actions using the UCF action databased.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-03-09T07:36:09Z",
-            "owner": "ltecot",
-            "repo": "humanMotionClassification",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "human motion classification",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Skills from Videos",
+              "description": "Motion Reconstruction Code and Data for Skills from Videos (SFV)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194360295,
+                "language": "Python",
+                "last_commit": "2022-09-16T18:32:08Z",
+                "owner": "akanazawa",
+                "repo": "motion_reconstruction",
+                "stars": 330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Character Animation",
+              "description": "A Re-implementation of the paper \"A Deep Learning Framework for Character Motion Synthesis and Editing\".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115139366,
+                "language": "Python",
+                "last_commit": "2018-01-31T10:54:56Z",
+                "owner": "AliJalalifar",
+                "repo": "Character_Animation",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Auto Conditioned RNN motion",
+              "description": "Implementation of Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120832272,
+                "language": "Python",
+                "last_commit": "2019-03-03T22:49:46Z",
+                "owner": "papagina",
+                "repo": "Auto_Conditioned_RNN_motion",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eccv18_mtvae",
+              "description": "Tensorflow Implementation of ECCV'18 paper: Multimodal Human Motion Synthesis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143248197,
+                "language": "Python",
+                "last_commit": "2021-08-01T23:00:27Z",
+                "owner": "xcyan",
+                "repo": "eccv18_mtvae",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Merel MoCap GAIL",
+              "description": "An implementation of \"Learning human behaviors from motion capture by adversarial imitation\".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148826857,
+                "language": "Shell",
+                "last_commit": "2018-12-13T12:53:59Z",
+                "owner": "ywchao",
+                "repo": "merel-mocap-gail",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GAN motion Prediction",
+              "description": "An LSTM based GAN for Human motion synthesis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154226200,
+                "language": "Python",
+                "last_commit": "2019-02-11T17:01:58Z",
+                "owner": "amoghadishesha",
+                "repo": "GAN-motion-Prediction",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Human Motion Synthesis",
+              "description": "Human motion synthesis using Unity3D.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109177111,
+                "language": "C#",
+                "last_commit": "2017-12-14T20:56:56Z",
+                "owner": "hao-xu-97",
+                "repo": "Human-Motion-Synthesis",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarial Learning for Modeling Human Motion",
+              "description": "This repository contains the open source code which reproduces the results for the paper: Adversarial learning for modeling human motion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142305689,
+                "language": "Python",
+                "last_commit": "2019-02-20T14:02:47Z",
+                "owner": "lucaskingjade",
+                "repo": "Motion_Synthesis_Adversarial_Learning",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MotionSynthesis2Maya",
+              "description": "create a Maya Pipeline based on Motion Synthesis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125225567,
+                "language": "Python",
+                "last_commit": "2018-03-14T14:39:41Z",
+                "owner": "ArashHosseini",
+                "repo": "MotionSynthesis2Maya",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "motionSynth",
+              "description": "Deep Human Motion Synthesis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111870693,
+                "language": "Python",
+                "last_commit": "2018-06-02T04:50:26Z",
+                "owner": "utkarshmall13",
+                "repo": "motionSynth",
+                "stars": 1
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-01-31T20:31:30Z",
-            "owner": "kubapok",
-            "repo": "human-motion-classification",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "motion visualization",
-          "description": "A simple visualizer for human whole-body motion using three.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2016-02-12T17:31:49Z",
-            "owner": "matthiasplappert",
-            "repo": "motion-visualization",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HumanMotionVisualiser",
-          "description": "This project is for visualising human motion data captured from Kinect V2 for further data analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2019-02-17T02:27:10Z",
-            "owner": "BayesTech",
-            "repo": "HumanMotionVisualiser",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "human motion analysis",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2016-10-23T14:44:53Z",
-            "owner": "dfsdfb",
-            "repo": "human-motion-analysis",
-            "stars": 0
-          }
+          "node_type": "group",
+          "title": "Implementations"
         }
       ],
-      "title": "Implementations"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Motion Synthesis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Skills from Videos",
-          "description": "Motion Reconstruction Code and Data for Skills from Videos (SFV)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-16T18:32:08Z",
-            "owner": "akanazawa",
-            "repo": "motion_reconstruction",
-            "stars": 330
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Character Animation",
-          "description": "A Re-implementation of the paper \"A Deep Learning Framework for Character Motion Synthesis and Editing\".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-01-31T10:54:56Z",
-            "owner": "AliJalalifar",
-            "repo": "Character_Animation",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Auto Conditioned RNN motion",
-          "description": "Implementation of Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-03-03T22:49:46Z",
-            "owner": "papagina",
-            "repo": "Auto_Conditioned_RNN_motion",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eccv18_mtvae",
-          "description": "Tensorflow Implementation of ECCV'18 paper: Multimodal Human Motion Synthesis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-01T23:00:27Z",
-            "owner": "xcyan",
-            "repo": "eccv18_mtvae",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Merel MoCap GAIL",
-          "description": "An implementation of \"Learning human behaviors from motion capture by adversarial imitation\".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-12-13T12:53:59Z",
-            "owner": "ywchao",
-            "repo": "merel-mocap-gail",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GAN motion Prediction",
-          "description": "An LSTM based GAN for Human motion synthesis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-02-11T17:01:58Z",
-            "owner": "amoghadishesha",
-            "repo": "GAN-motion-Prediction",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Human Motion Synthesis",
-          "description": "Human motion synthesis using Unity3D.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2017-12-14T20:56:56Z",
-            "owner": "hao-xu-97",
-            "repo": "Human-Motion-Synthesis",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adversarial Learning for Modeling Human Motion",
-          "description": "This repository contains the open source code which reproduces the results for the paper: Adversarial learning for modeling human motion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-02-20T14:02:47Z",
-            "owner": "lucaskingjade",
-            "repo": "Motion_Synthesis_Adversarial_Learning",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MotionSynthesis2Maya",
-          "description": "create a Maya Pipeline based on Motion Synthesis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-03-14T14:39:41Z",
-            "owner": "ArashHosseini",
-            "repo": "MotionSynthesis2Maya",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "motionSynth",
-          "description": "Deep Human Motion Synthesis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-06-02T04:50:26Z",
-            "owner": "utkarshmall13",
-            "repo": "motionSynth",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Implementations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Researchers, Institutes, Projects"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Videos"
-    },
-    {
-      "description": "This list benefits massively from the research work of Loreen Pogrzeba.",
-      "items": [],
-      "title": "Credits"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, derikon has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:05:10.814Z",
+    "last_updated": "2026-08-19T12:33:56.892Z",
     "original_repository": "derikon/awesome-human-motion",
+    "original_repository_id": 172934361,
     "original_repository_sha": "585176d187aa14155af97eecd5747e5597e3c3da",
     "enhanced_repository": "enhansome/enhansome-human-motion",
     "enhanced_repository_description": null,
