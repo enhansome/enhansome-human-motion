@@ -112,7 +112,7 @@
                 "last_commit": "2023-01-18T17:26:59Z",
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7258
+                "stars": 7259
               }
             },
             {
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:08:44.951Z",
+    "last_updated": "2026-08-21T15:07:07.631Z",
     "original_repository": "derikon/awesome-human-motion",
     "original_repository_id": 172934361,
     "original_repository_sha": "585176d187aa14155af97eecd5747e5597e3c3da",
