@@ -503,21 +503,6 @@
             },
             {
               "node_type": "item",
-              "title": "GAN motion Prediction",
-              "description": "An LSTM based GAN for Human motion synthesis.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 154226200,
-                "language": "Python",
-                "last_commit": "2019-02-11T17:01:58Z",
-                "owner": "amoghadishesha",
-                "repo": "GAN-motion-Prediction",
-                "stars": 10
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Human Motion Synthesis",
               "description": "Human motion synthesis using Unity3D.",
               "children": [],
@@ -528,6 +513,21 @@
                 "last_commit": "2017-12-14T20:56:56Z",
                 "owner": "hao-xu-97",
                 "repo": "Human-Motion-Synthesis",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GAN motion Prediction",
+              "description": "An LSTM based GAN for Human motion synthesis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154226200,
+                "language": "Python",
+                "last_commit": "2019-02-11T17:01:58Z",
+                "owner": "amoghadishesha",
+                "repo": "GAN-motion-Prediction",
                 "stars": 9
               }
             },
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:55:21.885Z",
+    "last_updated": "2026-08-23T14:56:59.111Z",
     "original_repository": "derikon/awesome-human-motion",
     "original_repository_id": 172934361,
     "original_repository_sha": "585176d187aa14155af97eecd5747e5597e3c3da",

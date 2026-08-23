@@ -110,8 +110,8 @@
 * [eccv18\_mtvae
   ](https://github.com/xcyan/eccv18_mtvae) ⭐ 39 | 🐛 3 | 🌐 Python | 📅 2021-08-01 - Tensorflow Implementation of ECCV'18 paper: Multimodal Human Motion Synthesis.
 * [Merel MoCap GAIL](https://github.com/ywchao/merel-mocap-gail) ⭐ 39 | 🐛 0 | 🌐 Shell | 📅 2018-12-13 - An implementation of "Learning human behaviors from motion capture by adversarial imitation".
-* [GAN motion Prediction](https://github.com/amoghadishesha/GAN-motion-Prediction) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-02-11 - An LSTM based GAN for Human motion synthesis.
 * [Human Motion Synthesis](https://github.com/tomatosoldier/Human-Motion-Synthesis) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2017-12-14 - Human motion synthesis using Unity3D.
+* [GAN motion Prediction](https://github.com/amoghadishesha/GAN-motion-Prediction) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2019-02-11 - An LSTM based GAN for Human motion synthesis.
 * [Adversarial Learning for Modeling Human Motion](https://github.com/lucaskingjade/Motion_Synthesis_Adversarial_Learning) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2019-02-20 - This repository contains the open source code which reproduces the results for the paper: Adversarial learning for modeling human motion.
 * [MotionSynthesis2Maya](https://github.com/ArashHosseini/MotionSynthesis2Maya) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2018-03-14 - create a Maya Pipeline based on Motion Synthesis.
 * [motionSynth](https://github.com/utkarshmall13/motionSynth) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2018-06-02 - Deep Human Motion Synthesis.
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
