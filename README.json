@@ -4,6 +4,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Human Pose and Motion",
+          "description": "A gentle introduction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139872336,
+            "language": null,
+            "last_commit": "2018-07-05T16:30:09Z",
+            "owner": "daitomanabe",
+            "repo": "Human-Pose-and-Motion",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Introduction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SURREAL",
+          "description": "Learning from Synthetic Humans, CVPR 2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88176032,
+            "language": "Lua",
+            "last_commit": "2021-06-04T14:05:45Z",
+            "owner": "gulvarol",
+            "repo": "surreal",
+            "stars": 618
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -76,6 +118,28 @@
           "description": null,
           "node_type": "group",
           "title": "Data Conversion"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Motion Annotation Tool",
+              "description": "Crowd-sourced Annotation of Human Motion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63067288,
+                "language": "Python",
+                "last_commit": "2021-06-10T19:35:20Z",
+                "owner": "matthiasplappert",
+                "repo": "motion-annotation-tool",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
         }
       ],
       "title": "Data Processing"
@@ -83,6 +147,50 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Human Pose Estimation 101",
+              "description": "Basics of 2D and 3D Human Pose Estimation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151760929,
+                "language": null,
+                "last_commit": "2019-05-14T12:35:42Z",
+                "owner": "cbsudux",
+                "repo": "Human-Pose-Estimation-101",
+                "stars": 357
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lectures"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Human Pose Estimation Papers",
+              "description": "A collection of papers addressing 2D and 3D human pose estimation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133635509,
+                "language": null,
+                "last_commit": "2019-11-06T02:58:59Z",
+                "owner": "Bob130",
+                "repo": "Human-Pose-Estimation-Papers",
+                "stars": 133
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Papers"
+        },
         {
           "children": [
             {
@@ -586,7 +694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:56:59.111Z",
+    "last_updated": "2026-08-24T14:22:15.812Z",
     "original_repository": "derikon/awesome-human-motion",
     "original_repository_id": 172934361,
     "original_repository_sha": "585176d187aa14155af97eecd5747e5597e3c3da",

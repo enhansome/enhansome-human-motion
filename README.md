@@ -28,8 +28,8 @@
 
 ## Datasets
 
-* [Human 3.6M](http://vision.imar.ro/human3.6m/description.php) - Large Scale Datasets and Predictive Methodsfor 3D Human Sensing in Natural Environments
 * [SURREAL](https://github.com/gulvarol/surreal) ⭐ 618 | 🐛 17 | 🌐 Lua | 📅 2021-06-04 - Learning from Synthetic Humans, CVPR 2017
+* [Human 3.6M](http://vision.imar.ro/human3.6m/description.php) - Large Scale Datasets and Predictive Methodsfor 3D Human Sensing in Natural Environments
 * [CMU](http://mocap.cs.cmu.edu/) - Carnegie Mellon University Motion Capture Database
 * [Berkley MHAD](http://tele-immersion.citris-uc.org/berkeley_mhad#hard) - \[📷🎥🎤🤾‍♀️⌚️🤹‍♀️]\[👨‍🦰👩]\[👧👵] - The Berkeley Multimodal Human Action Database (MHAD) contains 11 actions performed by 7 male and 5 female subjects in the range 23-30 years of age except for one elderly subject.
 * [COCO](http://cocodataset.org) - \[📷]\[👨‍🦰👩]\[👧👵] - COCO is a large-scale object detection, segmentation, and captioning dataset.
@@ -63,13 +63,13 @@
 
 ### Lectures
 
-* [Human Pose Estimation 101](https://github.com/cbsudux/Human-Pose-Estimation-101) ⭐ 356 | 🐛 3 | 📅 2019-05-14 - Basics of 2D and 3D Human Pose Estimation.
+* [Human Pose Estimation 101](https://github.com/cbsudux/Human-Pose-Estimation-101) ⭐ 357 | 🐛 3 | 📅 2019-05-14 - Basics of 2D and 3D Human Pose Estimation.
 * [Object Keypoint Similarity](http://cocodataset.org/#keypoints-eval) - This page describes the keypoint evaluation metrics used by COCO.
 
 ### Papers
 
-* [Papers with Code](https://paperswithcode.com/task/pose-estimation) - A collection of papers addressing several tasks of pose estimation with code available.
 * [Human Pose Estimation Papers](https://github.com/Bob130/Human-Pose-Estimation-Papers) ⭐ 133 | 🐛 0 | 📅 2019-11-06 - A collection of papers addressing 2D and 3D human pose estimation.
+* [Papers with Code](https://paperswithcode.com/task/pose-estimation) - A collection of papers addressing several tasks of pose estimation with code available.
 
 ### Implementations
 
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
