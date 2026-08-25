@@ -205,7 +205,7 @@
                 "last_commit": "2024-05-13T14:33:34Z",
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8594
+                "stars": 8595
               }
             },
             {
@@ -235,7 +235,7 @@
                 "last_commit": "2022-12-10T16:22:15Z",
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4051
+                "stars": 4052
               }
             },
             {
@@ -694,7 +694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:15:11.370Z",
+    "last_updated": "2026-08-25T15:25:40.608Z",
     "original_repository": "derikon/awesome-human-motion",
     "original_repository_id": 172934361,
     "original_repository_sha": "585176d187aa14155af97eecd5747e5597e3c3da",
