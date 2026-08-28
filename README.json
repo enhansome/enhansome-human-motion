@@ -16,7 +16,8 @@
             "owner": "daitomanabe",
             "repo": "Human-Pose-and-Motion",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T23:39:44.396Z"
         }
       ],
       "title": "Introduction"
@@ -37,7 +38,8 @@
             "owner": "gulvarol",
             "repo": "surreal",
             "stars": 618
-          }
+          },
+          "first_seen": "2026-08-28T23:39:44.396Z"
         }
       ],
       "title": "Datasets"
@@ -60,7 +62,8 @@
                 "owner": "mariusrubo",
                 "repo": "Unity-Humanoid-Mocap-CSV",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -75,7 +78,8 @@
                 "owner": "apalkowski",
                 "repo": "KinectMotionCapture",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             }
           ],
           "description": null,
@@ -97,7 +101,8 @@
                 "owner": "Dene33",
                 "repo": "video_to_bvh",
                 "stars": 401
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -112,7 +117,8 @@
                 "owner": "taiyoshoe",
                 "repo": "MotionCapturePy",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             }
           ],
           "description": null,
@@ -134,7 +140,8 @@
                 "owner": "matthiasplappert",
                 "repo": "motion-annotation-tool",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             }
           ],
           "description": null,
@@ -162,7 +169,8 @@
                 "owner": "cbsudux",
                 "repo": "Human-Pose-Estimation-101",
                 "stars": 357
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             }
           ],
           "description": null,
@@ -184,7 +192,8 @@
                 "owner": "Bob130",
                 "repo": "Human-Pose-Estimation-Papers",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             }
           ],
           "description": null,
@@ -206,7 +215,8 @@
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
                 "stars": 8598
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -221,7 +231,8 @@
                 "owner": "facebookresearch",
                 "repo": "DensePose",
                 "stars": 7259
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -236,7 +247,8 @@
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
                 "stars": 4052
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -251,7 +263,8 @@
                 "owner": "akanazawa",
                 "repo": "hmr",
                 "stars": 1666
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -266,7 +279,8 @@
                 "owner": "una-dinosauria",
                 "repo": "3d-pose-baseline",
                 "stars": 1459
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -281,7 +295,8 @@
                 "owner": "chanyn",
                 "repo": "3Dpose_ssl",
                 "stars": 414
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -296,7 +311,8 @@
                 "owner": "weigq",
                 "repo": "3d_pose_baseline_pytorch",
                 "stars": 379
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -311,7 +327,8 @@
                 "owner": "DwangoMediaVillage",
                 "repo": "3dpose_gan",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -326,7 +343,8 @@
                 "owner": "Naman-ntc",
                 "repo": "3D-HourGlass-Network",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -341,7 +359,8 @@
                 "owner": "latte0",
                 "repo": "3d-pose-estimation",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -356,7 +375,8 @@
                 "owner": "jackd",
                 "repo": "adversarially_parameterized_optimization",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             }
           ],
           "description": null,
@@ -384,7 +404,8 @@
                 "owner": "csu-hmc",
                 "repo": "GaitAnalysisToolKit",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -399,7 +420,8 @@
                 "owner": "thesimonho",
                 "repo": "sensormotion",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -414,7 +436,8 @@
                 "owner": "OmalPerera",
                 "repo": "Human-detection-system-with-raspberry-Pi",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -429,7 +452,8 @@
                 "owner": "Health-Devices-Research-Group",
                 "repo": "Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -444,7 +468,8 @@
                 "owner": "matthiasplappert",
                 "repo": "motion-classification",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -459,7 +484,8 @@
                 "owner": "ltecot",
                 "repo": "humanMotionClassification",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -474,7 +500,8 @@
                 "owner": "kubapok",
                 "repo": "human-motion-classification",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -489,7 +516,8 @@
                 "owner": "matthiasplappert",
                 "repo": "motion-visualization",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -504,7 +532,8 @@
                 "owner": "BayesTech",
                 "repo": "HumanMotionVisualiser",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -519,7 +548,8 @@
                 "owner": "dfsdfb",
                 "repo": "human-motion-analysis",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             }
           ],
           "description": null,
@@ -547,7 +577,8 @@
                 "owner": "akanazawa",
                 "repo": "motion_reconstruction",
                 "stars": 330
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -562,7 +593,8 @@
                 "owner": "AliJalalifar",
                 "repo": "Character_Animation",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -577,7 +609,8 @@
                 "owner": "papagina",
                 "repo": "Auto_Conditioned_RNN_motion",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -592,7 +625,8 @@
                 "owner": "xcyan",
                 "repo": "eccv18_mtvae",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -607,7 +641,8 @@
                 "owner": "ywchao",
                 "repo": "merel-mocap-gail",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -622,7 +657,8 @@
                 "owner": "hao-xu-97",
                 "repo": "Human-Motion-Synthesis",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -637,7 +673,8 @@
                 "owner": "amoghadishesha",
                 "repo": "GAN-motion-Prediction",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -652,7 +689,8 @@
                 "owner": "lucaskingjade",
                 "repo": "Motion_Synthesis_Adversarial_Learning",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -667,7 +705,8 @@
                 "owner": "ArashHosseini",
                 "repo": "MotionSynthesis2Maya",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             },
             {
               "node_type": "item",
@@ -682,7 +721,8 @@
                 "owner": "utkarshmall13",
                 "repo": "motionSynth",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:39:44.396Z"
             }
           ],
           "description": null,
@@ -694,7 +734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:57:28.454Z",
+    "last_updated": "2026-08-28T23:39:44.396Z",
     "original_repository_info": {
       "archived": false,
       "id": 172934361,
@@ -702,7 +742,7 @@
       "last_commit": "2020-01-06T12:47:22Z",
       "owner": "derikon",
       "repo": "awesome-human-motion",
-      "stars": 492
+      "stars": 493
     },
     "original_repository_sha": "585176d187aa14155af97eecd5747e5597e3c3da",
     "enhanced_repository": "enhansome/enhansome-human-motion",
