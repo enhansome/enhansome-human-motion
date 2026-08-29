@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human-Pose-and-Motion History",
+            "homepage": null,
             "id": 139872336,
             "language": null,
+            "license": null,
             "last_commit": "2018-07-05T16:30:09Z",
+            "open_issues": 1,
             "owner": "daitomanabe",
             "repo": "Human-Pose-and-Motion",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:44.396Z"
         }
@@ -32,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning from Synthetic Humans, CVPR 2017",
+            "homepage": "http://www.di.ens.fr/willow/research/surreal",
             "id": 88176032,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2021-06-04T14:05:45Z",
+            "open_issues": 17,
             "owner": "gulvarol",
             "repo": "surreal",
-            "stars": 618
+            "stars": 618,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:44.396Z"
         }
@@ -56,12 +66,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use .csv files to record, play and evaluate motion capture data. ",
+                "homepage": null,
                 "id": 87089120,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2021-07-30T09:19:51Z",
+                "open_issues": 0,
                 "owner": "mariusrubo",
                 "repo": "Unity-Humanoid-Mocap-CSV",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -72,12 +87,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple software for capturing human body movements using the Kinect camera.",
+                "homepage": null,
                 "id": 63496356,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2016-07-27T11:23:36Z",
+                "open_issues": 0,
                 "owner": "apalkowski",
                 "repo": "KinectMotionCapture",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             }
@@ -95,12 +115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert human motion from video to .bvh",
+                "homepage": null,
                 "id": 159657540,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-06-17T20:20:46Z",
+                "open_issues": 26,
                 "owner": "Dene33",
                 "repo": "video_to_bvh",
-                "stars": 401
+                "stars": 401,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -111,12 +136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts motion capture data from ASF and AMC files to Cartesian numpy arrays in python. Also plots a moving human frame using matplotlib",
+                "homepage": null,
                 "id": 104623391,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-09-24T06:35:08Z",
+                "open_issues": 0,
                 "owner": "taiyoshoe",
                 "repo": "MotionCapturePy",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             }
@@ -134,12 +164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crowd-sourced Annotation of Human Motion.",
+                "homepage": "https://motion-annotation.humanoids.kit.edu",
                 "id": 63067288,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-10T19:35:20Z",
+                "open_issues": 2,
                 "owner": "matthiasplappert",
                 "repo": "motion-annotation-tool",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             }
@@ -163,12 +198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basics of 2D and 3D Human Pose Estimation.",
+                "homepage": null,
                 "id": 151760929,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-05-14T12:35:42Z",
+                "open_issues": 3,
                 "owner": "cbsudux",
                 "repo": "Human-Pose-Estimation-101",
-                "stars": 357
+                "stars": 357,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             }
@@ -186,12 +226,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D&3D human pose estimation",
+                "homepage": null,
                 "id": 133635509,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-11-06T02:58:59Z",
+                "open_issues": 0,
                 "owner": "Bob130",
                 "repo": "Human-Pose-Estimation-Papers",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "human-pose-estimation",
+                  "papers"
+                ]
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             }
@@ -209,12 +257,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System",
+                "homepage": "http://mvig.org/research/alphapose.html",
                 "id": 117772329,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-13T14:33:34Z",
+                "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8598
+                "stars": 8598,
+                "topics": [
+                  "accurate",
+                  "alpha-pose",
+                  "alphapose",
+                  "crowdpose",
+                  "full-body",
+                  "gpu",
+                  "human-computer-interaction",
+                  "human-joints",
+                  "human-pose-estimation",
+                  "human-pose-tracking",
+                  "human-tracking",
+                  "keypoints",
+                  "person-pose-estimation",
+                  "pose-estimation",
+                  "posetracking",
+                  "pytorch",
+                  "realtime",
+                  "skeleton",
+                  "tracking",
+                  "whole-body"
+                ]
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -225,12 +299,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
+                "homepage": "http://densepose.org",
                 "id": 136069311,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-18T17:26:59Z",
+                "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7259
+                "stars": 7259,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -241,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Efficient 3D human pose estimation in video using 2D keypoint trajectories",
+                "homepage": null,
                 "id": 153697606,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-10T16:22:15Z",
+                "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4052
+                "stars": 4052,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -257,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project page for End-to-end Recovery of Human Shape and Pose",
+                "homepage": null,
                 "id": 114591486,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-10T13:41:54Z",
+                "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1666
+                "stars": 1666,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -273,12 +362,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.",
+                "homepage": null,
                 "id": 88918009,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-09-26T02:27:50Z",
+                "open_issues": 32,
                 "owner": "una-dinosauria",
                 "repo": "3d-pose-baseline",
-                "stars": 1459
+                "stars": 1459,
+                "topics": [
+                  "3d-vision",
+                  "baseline",
+                  "computer-vision",
+                  "iccv-17",
+                  "iccv-2017",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -289,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D Human Pose Machines with Self-supervised Learning",
+                "homepage": null,
                 "id": 165025912,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-02-07T20:27:38Z",
+                "open_issues": 10,
                 "owner": "chanyn",
                 "repo": "3Dpose_ssl",
-                "stars": 414
+                "stars": 414,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -305,12 +411,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple baseline for 3d human pose estimation in PyTorch.",
+                "homepage": null,
                 "id": 125612584,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-04-10T10:26:18Z",
+                "open_issues": 23,
                 "owner": "weigq",
                 "repo": "3d_pose_baseline_pytorch",
-                "stars": 379
+                "stars": 379,
+                "topics": [
+                  "3d-pose-estimation",
+                  "computer-vision",
+                  "pose-estimation",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -321,12 +437,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The authors' implementation of  Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations ",
+                "homepage": "https://dmv.nico/en/casestudy/3dpose_gan/",
                 "id": 127734069,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-07-12T03:57:55Z",
+                "open_issues": 12,
                 "owner": "DwangoMediaVillage",
                 "repo": "3dpose_gan",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "generative-adversarial-network",
+                  "machine-learning",
+                  "pose-estimation",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -337,12 +463,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D HourGlass Networks for Human Pose Estimation Through Videos ",
+                "homepage": null,
                 "id": 127304719,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-10-28T19:34:42Z",
+                "open_issues": 0,
                 "owner": "Naman-ntc",
                 "repo": "3D-HourGlass-Network",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "3d-cnn",
+                  "3d-human-pose",
+                  "hourglass-network",
+                  "human36m",
+                  "inflat",
+                  "inflated-network",
+                  "inflation",
+                  "pose-estimation",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -353,12 +494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera ",
+                "homepage": null,
                 "id": 106083091,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-10-31T16:58:42Z",
+                "open_issues": 0,
                 "owner": "latte0",
                 "repo": "3d-pose-estimation",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -369,12 +515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GAN-based 3D human pose estimation model for 3DV'17 paper",
+                "homepage": null,
                 "id": 102816477,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-21T00:47:17Z",
+                "open_issues": 0,
                 "owner": "jackd",
                 "repo": "adversarially_parameterized_optimization",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             }
@@ -398,12 +549,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for the Cleveland State Human Motion and Control Lab",
+                "homepage": "http://hmc.csuohio.edu",
                 "id": 14959373,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-15T06:11:02Z",
+                "open_issues": 49,
                 "owner": "csu-hmc",
                 "repo": "GaitAnalysisToolKit",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "biomechanics",
+                  "control",
+                  "gait",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -414,12 +575,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package for analyzing human motion data (e.g. PA, gait)",
+                "homepage": null,
                 "id": 130158177,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-18T10:34:04Z",
+                "open_issues": 0,
                 "owner": "thesimonho",
                 "repo": "sensormotion",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "accelerometer",
+                  "actigraphy",
+                  "data-analysis",
+                  "data-science",
+                  "gait-analysis",
+                  "physical-activity",
+                  "sensor-data"
+                ]
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -430,12 +604,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A motion detection system with RaspberryPi, OpenCV, Python",
+                "homepage": null,
                 "id": 67869563,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-01-28T06:07:05Z",
+                "open_issues": 3,
                 "owner": "OmalPerera",
                 "repo": "Human-detection-system-with-raspberry-Pi",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "camera",
+                  "opencv",
+                  "python",
+                  "raspberry-pi",
+                  "raspberry-pi-3",
+                  "raspberry-pi-camera"
+                ]
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -446,12 +632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This work presents a supervised learning approach for training a posture detection classifier, and implementing a fall detection system using the posture classification results as inputs with a Microsoft Kinect v2 sensor. The Kinect v2 skeleton tracking provides 3D depth coordinates for 25 body parts. We use these depth coordinates to extract seven features consisting of the height of the subject and six angles between certain body parts. These features are then fed into a fully connected neural network that outputs one of three considered postures for the subject: standing, sitting, or lying down. An average classification rate of over 99.30% for all three postures was achieved on test data consisting of multiple subjects where the subjects were not even facing the Kinect depth camera most of the time and were located in different locations. These results show the feasibility to classify human postures with the proposed setup independently of the location of the subject in the room and orientation to the 3D sensor.",
+                "homepage": null,
                 "id": 134308271,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-06-05T20:03:54Z",
+                "open_issues": 1,
                 "owner": "Health-Devices-Research-Group",
                 "repo": "Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -462,12 +653,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code written during my Bachelor Thesis \"Classification of Human Whole-Body Motion using Hidden Markov Models\".",
+                "homepage": "http://arxiv.org/pdf/1605.01569.pdf",
                 "id": 50024701,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-07-11T12:53:28Z",
+                "open_issues": 0,
                 "owner": "matthiasplappert",
                 "repo": "motion-classification",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -478,12 +674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experiments in classifying human actions using the UCF action databased.",
+                "homepage": null,
                 "id": 82481069,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-03-09T07:36:09Z",
+                "open_issues": 0,
                 "owner": "ltecot",
                 "repo": "humanMotionClassification",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -494,12 +695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 117341891,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-01-31T20:31:30Z",
+                "open_issues": 0,
                 "owner": "kubapok",
                 "repo": "human-motion-classification",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -510,12 +716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple visualizer for human whole-body motion using three.js",
+                "homepage": "http://matthiasplappert.com/motion-visualization",
                 "id": 51601906,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2016-02-12T17:31:49Z",
+                "open_issues": 0,
                 "owner": "matthiasplappert",
                 "repo": "motion-visualization",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -526,12 +737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project is for visualising human motion data captured from Kinect V2 for further data analysis",
+                "homepage": null,
                 "id": 167756319,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2019-02-17T02:27:10Z",
+                "open_issues": 0,
                 "owner": "BayesTech",
                 "repo": "HumanMotionVisualiser",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -542,12 +758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 71708638,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2016-10-23T14:44:53Z",
+                "open_issues": 0,
                 "owner": "dfsdfb",
                 "repo": "human-motion-analysis",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             }
@@ -571,12 +792,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motion Reconstruction Code and Data for Skills from Videos (SFV)",
+                "homepage": null,
                 "id": 194360295,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-09-16T18:32:08Z",
+                "open_issues": 12,
                 "owner": "akanazawa",
                 "repo": "motion_reconstruction",
-                "stars": 330
+                "stars": 330,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -587,12 +813,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A  Re-implementation of the paper \"A Deep Learning Framework for Character Motion Synthesis and Editing\"",
+                "homepage": null,
                 "id": 115139366,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-01-31T10:54:56Z",
+                "open_issues": 4,
                 "owner": "AliJalalifar",
                 "repo": "Character_Animation",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -603,12 +834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis",
+                "homepage": null,
                 "id": 120832272,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-03-03T22:49:46Z",
+                "open_issues": 9,
                 "owner": "papagina",
                 "repo": "Auto_Conditioned_RNN_motion",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -619,12 +855,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow Implementation of ECCV'18 paper: Multimodal Human Motion Synthesis",
+                "homepage": "https://github.com/xcyan/eccv18_mtvae",
                 "id": 143248197,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-08-01T23:00:27Z",
+                "open_issues": 3,
                 "owner": "xcyan",
                 "repo": "eccv18_mtvae",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "generative-model",
+                  "human-activity-recognition",
+                  "sequence-to-sequence",
+                  "tensorflow",
+                  "variational-autoencoder"
+                ]
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -635,12 +882,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of \"Learning human behaviors from motion capture by adversarial imitation\"",
+                "homepage": null,
                 "id": 148826857,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2018-12-13T12:53:59Z",
+                "open_issues": 0,
                 "owner": "ywchao",
                 "repo": "merel-mocap-gail",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -651,12 +903,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 109177111,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2017-12-14T20:56:56Z",
+                "open_issues": 0,
                 "owner": "hao-xu-97",
                 "repo": "Human-Motion-Synthesis",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -667,12 +924,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An LSTM based GAN for Human motion synthesis",
+                "homepage": null,
                 "id": 154226200,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-02-11T17:01:58Z",
+                "open_issues": 1,
                 "owner": "amoghadishesha",
                 "repo": "GAN-motion-Prediction",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -683,12 +945,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 142305689,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-02-20T14:02:47Z",
+                "open_issues": 1,
                 "owner": "lucaskingjade",
                 "repo": "Motion_Synthesis_Adversarial_Learning",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -699,12 +966,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " create a Maya Pipeline based on Motion Synthesis",
+                "homepage": null,
                 "id": 125225567,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-03-14T14:39:41Z",
+                "open_issues": 0,
                 "owner": "ArashHosseini",
                 "repo": "MotionSynthesis2Maya",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             },
@@ -715,12 +987,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motion Synthesis",
+                "homepage": null,
                 "id": 111870693,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-06-02T04:50:26Z",
+                "open_issues": 0,
                 "owner": "utkarshmall13",
                 "repo": "motionSynth",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
             }
@@ -734,15 +1011,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:39:44.396Z",
+    "last_updated": "2026-08-29T04:42:33.498Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
+      "homepage": null,
       "id": 172934361,
       "language": null,
+      "license": null,
       "last_commit": "2020-01-06T12:47:22Z",
+      "open_issues": 1,
       "owner": "derikon",
       "repo": "awesome-human-motion",
-      "stars": 493
+      "stars": 493,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "human-motion",
+        "human-pose-estimation",
+        "motion",
+        "motion-analysis",
+        "motion-capture",
+        "motion-synthesis",
+        "research"
+      ]
     },
     "original_repository_sha": "585176d187aa14155af97eecd5747e5597e3c3da",
     "enhanced_repository": "enhansome/enhansome-human-motion",
