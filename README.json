@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:52:37.889Z",
+    "last_updated": "2026-08-30T18:11:01.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
@@ -1023,7 +1023,7 @@
       "open_issues": 1,
       "owner": "derikon",
       "repo": "awesome-human-motion",
-      "stars": 493,
+      "stars": 494,
       "topics": [
         "awesome",
         "awesome-list",
