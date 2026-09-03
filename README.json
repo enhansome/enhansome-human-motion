@@ -308,7 +308,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7259,
+                "stars": 7258,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -554,7 +554,7 @@
                 "id": 14959373,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2025-03-15T06:11:02Z",
+                "last_commit": "2026-09-03T15:50:36Z",
                 "open_issues": 49,
                 "owner": "csu-hmc",
                 "repo": "GaitAnalysisToolKit",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:01:46.367Z",
+    "last_updated": "2026-09-03T18:01:33.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",

@@ -89,7 +89,7 @@
 
 ### Implementations
 
-* [GaitAnalysisToolKit](https://github.com/csu-hmc/GaitAnalysisToolKit) ⭐ 121 | 🐛 49 | 🌐 Python | 📅 2025-03-15 - Tools for the Cleveland State Human Motion and Control Lab.
+* [GaitAnalysisToolKit](https://github.com/csu-hmc/GaitAnalysisToolKit) ⭐ 121 | 🐛 49 | 🌐 Python | 📅 2026-09-03 - Tools for the Cleveland State Human Motion and Control Lab.
 * [sensormotion](https://github.com/sho-87/sensormotion) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2025-05-18 - Python package for analyzing sensor-collected human motion data (e.g. physical activity levels, gait dynamics).
 * [Human-detection-system-with-raspberry-Pi](https://github.com/OmalPerera/Human-detection-system-with-raspberry-Pi) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2018-01-28 - A motion detection system with RaspberryPi, OpenCV, Python.
 * [Posture and Fall Detection System Using 3D Motion Sensors](https://github.com/Health-Devices-Research-Group/Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2018-06-05 - This work presents a supervised learning approach for training a posture detection classifier, and implementing a fall detection system using the posture classification results as inputs with a Microsoft Kinect v2 sensor.
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
