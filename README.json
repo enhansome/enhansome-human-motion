@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8600,
+                "stars": 8599,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -329,7 +329,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4050,
+                "stars": 4049,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:46:03.120Z",
+    "last_updated": "2026-09-05T16:55:41.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
