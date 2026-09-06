@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8599,
+                "stars": 8600,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -350,7 +350,7 @@
                 "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1666,
+                "stars": 1667,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -641,7 +641,7 @@
                 "open_issues": 1,
                 "owner": "Health-Devices-Research-Group",
                 "repo": "Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:55:41.234Z",
+    "last_updated": "2026-09-06T17:20:02.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
