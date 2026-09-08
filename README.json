@@ -399,7 +399,7 @@
                 "open_issues": 10,
                 "owner": "chanyn",
                 "repo": "3Dpose_ssl",
-                "stars": 414,
+                "stars": 413,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -801,7 +801,7 @@
                 "open_issues": 12,
                 "owner": "akanazawa",
                 "repo": "motion_reconstruction",
-                "stars": 330,
+                "stars": 329,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:50:58.114Z",
+    "last_updated": "2026-09-08T18:03:58.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",

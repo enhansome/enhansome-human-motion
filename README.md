@@ -78,7 +78,7 @@
 * [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) ⚠️ Archived - Efficient 3D human pose estimation in video using 2D keypoint trajectorie.
 * [Human Shape and Pose](https://github.com/akanazawa/hmr) ⭐ 1,667 | 🐛 19 | 🌐 Python | 📅 2023-07-10 -  End-to-end Recovery of Human Shape and Pose - CVPR 2018
 * [3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) ⭐ 1,459 | 🐛 32 | 🌐 Python | 📅 2020-09-26 - A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.
-* [3Dpose\_ssl](https://github.com/chanyn/3Dpose_ssl) ⭐ 414 | 🐛 10 | 🌐 C++ | 📅 2020-02-07 - 3D Human Pose Machines with Self-supervised Learning.
+* [3Dpose\_ssl](https://github.com/chanyn/3Dpose_ssl) ⭐ 413 | 🐛 10 | 🌐 C++ | 📅 2020-02-07 - 3D Human Pose Machines with Self-supervised Learning.
 * [3d\_pose\_baseline\_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch) ⚠️ Archived - A simple baseline for 3d human pose estimation in PyTorch.
 * [3dpose\_gan](https://github.com/DwangoMediaVillage/3dpose_gan) ⭐ 143 | 🐛 12 | 🌐 Python | 📅 2018-07-12 - The authors' implementation of Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations.
 * [3D-HourGlass-Network](https://github.com/Naman-ntc/3D-HourGlass-Network) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2018-10-28 - 3D HourGlass Networks for Human Pose Estimation Through Videos.
@@ -104,7 +104,7 @@
 
 ### Implementations
 
-* [Skills from Videos](https://github.com/akanazawa/motion_reconstruction) ⭐ 330 | 🐛 12 | 🌐 Python | 📅 2022-09-16 - Motion Reconstruction Code and Data for Skills from Videos (SFV)
+* [Skills from Videos](https://github.com/akanazawa/motion_reconstruction) ⭐ 329 | 🐛 12 | 🌐 Python | 📅 2022-09-16 - Motion Reconstruction Code and Data for Skills from Videos (SFV)
 * [Character Animation](https://github.com/AliJalalifar/Character_Animation) ⭐ 113 | 🐛 4 | 🌐 Python | 📅 2018-01-31 - A Re-implementation of the paper "A Deep Learning Framework for Character Motion Synthesis and Editing".
 * [Auto Conditioned RNN motion](https://github.com/papagina/Auto_Conditioned_RNN_motion) ⭐ 67 | 🐛 9 | 🌐 Python | 📅 2019-03-03 - Implementation of Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis.
 * [eccv18\_mtvae
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
