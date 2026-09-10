@@ -73,10 +73,10 @@
 
 ### Implementations
 
-* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,599 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
+* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,598 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 * [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) ⚠️ Archived - Efficient 3D human pose estimation in video using 2D keypoint trajectorie.
-* [Human Shape and Pose](https://github.com/akanazawa/hmr) ⭐ 1,667 | 🐛 19 | 🌐 Python | 📅 2023-07-10 -  End-to-end Recovery of Human Shape and Pose - CVPR 2018
+* [Human Shape and Pose](https://github.com/akanazawa/hmr) ⭐ 1,668 | 🐛 19 | 🌐 Python | 📅 2023-07-10 -  End-to-end Recovery of Human Shape and Pose - CVPR 2018
 * [3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) ⭐ 1,459 | 🐛 32 | 🌐 Python | 📅 2020-09-26 - A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.
 * [3Dpose\_ssl](https://github.com/chanyn/3Dpose_ssl) ⭐ 413 | 🐛 10 | 🌐 C++ | 📅 2020-02-07 - 3D Human Pose Machines with Self-supervised Learning.
 * [3d\_pose\_baseline\_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch) ⚠️ Archived - A simple baseline for 3d human pose estimation in PyTorch.
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
