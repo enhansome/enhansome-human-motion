@@ -308,7 +308,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7257,
+                "stars": 7258,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -329,7 +329,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4049,
+                "stars": 4047,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:31:20.981Z",
+    "last_updated": "2026-09-18T17:51:05.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
