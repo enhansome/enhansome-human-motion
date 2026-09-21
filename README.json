@@ -124,7 +124,7 @@
                 "open_issues": 26,
                 "owner": "Dene33",
                 "repo": "video_to_bvh",
-                "stars": 401,
+                "stars": 402,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8602,
+                "stars": 8605,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -371,7 +371,7 @@
                 "open_issues": 32,
                 "owner": "una-dinosauria",
                 "repo": "3d-pose-baseline",
-                "stars": 1460,
+                "stars": 1461,
                 "topics": [
                   "3d-vision",
                   "baseline",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:39:19.015Z",
+    "last_updated": "2026-09-21T19:43:17.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",

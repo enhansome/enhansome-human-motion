@@ -52,7 +52,7 @@
 
 ### Data Conversion
 
-* [video to bvh](https://github.com/Dene33/video_to_bvh) ⭐ 401 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2019-06-17 - Convert human motion from video to .bvh.
+* [video to bvh](https://github.com/Dene33/video_to_bvh) ⭐ 402 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2019-06-17 - Convert human motion from video to .bvh.
 * [MotionCapturePy](https://github.com/taiyoshoe/MotionCapturePy) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2017-09-24 - Converts motion capture data from ASF and AMC files to Cartesian numpy arrays in python. Also plots a moving human frame using matplotlib.
 
 ### Misc
@@ -73,11 +73,11 @@
 
 ### Implementations
 
-* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,602 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
+* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,605 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 * [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) ⚠️ Archived - Efficient 3D human pose estimation in video using 2D keypoint trajectorie.
 * [Human Shape and Pose](https://github.com/akanazawa/hmr) ⭐ 1,666 | 🐛 19 | 🌐 Python | 📅 2023-07-10 -  End-to-end Recovery of Human Shape and Pose - CVPR 2018
-* [3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) ⭐ 1,460 | 🐛 32 | 🌐 Python | 📅 2020-09-26 - A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.
+* [3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) ⭐ 1,461 | 🐛 32 | 🌐 Python | 📅 2020-09-26 - A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.
 * [3Dpose\_ssl](https://github.com/chanyn/3Dpose_ssl) ⭐ 413 | 🐛 10 | 🌐 C++ | 📅 2020-02-07 - 3D Human Pose Machines with Self-supervised Learning.
 * [3d\_pose\_baseline\_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch) ⚠️ Archived - A simple baseline for 3d human pose estimation in PyTorch.
 * [3dpose\_gan](https://github.com/DwangoMediaVillage/3dpose_gan) ⭐ 143 | 🐛 12 | 🌐 Python | 📅 2018-07-12 - The authors' implementation of Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations.
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
