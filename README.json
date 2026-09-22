@@ -350,7 +350,7 @@
                 "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1666,
+                "stars": 1667,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:43:17.212Z",
+    "last_updated": "2026-09-22T18:15:12.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
