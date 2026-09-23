@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8605,
+                "stars": 8607,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -308,7 +308,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7258,
+                "stars": 7259,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -329,7 +329,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4048,
+                "stars": 4049,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -350,7 +350,7 @@
                 "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1667,
+                "stars": 1669,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -371,7 +371,7 @@
                 "open_issues": 32,
                 "owner": "una-dinosauria",
                 "repo": "3d-pose-baseline",
-                "stars": 1461,
+                "stars": 1462,
                 "topics": [
                   "3d-vision",
                   "baseline",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:15:12.104Z",
+    "last_updated": "2026-09-23T18:36:31.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
