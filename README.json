@@ -207,7 +207,7 @@
                 "open_issues": 3,
                 "owner": "cbsudux",
                 "repo": "Human-Pose-Estimation-101",
-                "stars": 357,
+                "stars": 358,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8606,
+                "stars": 8608,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -350,7 +350,7 @@
                 "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1669,
+                "stars": 1670,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:51:20.977Z",
+    "last_updated": "2026-09-26T17:59:52.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
@@ -1023,7 +1023,7 @@
       "open_issues": 1,
       "owner": "derikon",
       "repo": "awesome-human-motion",
-      "stars": 494,
+      "stars": 495,
       "topics": [
         "awesome",
         "awesome-list",
