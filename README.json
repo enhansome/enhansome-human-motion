@@ -207,7 +207,7 @@
                 "open_issues": 3,
                 "owner": "cbsudux",
                 "repo": "Human-Pose-Estimation-101",
-                "stars": 358,
+                "stars": 359,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8608,
+                "stars": 8607,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -420,7 +420,7 @@
                 "open_issues": 23,
                 "owner": "weigq",
                 "repo": "3d_pose_baseline_pytorch",
-                "stars": 379,
+                "stars": 378,
                 "topics": [
                   "3d-pose-estimation",
                   "computer-vision",
@@ -641,7 +641,7 @@
                 "open_issues": 1,
                 "owner": "Health-Devices-Research-Group",
                 "repo": "Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:38:34.747Z",
+    "last_updated": "2026-09-28T20:46:11.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
