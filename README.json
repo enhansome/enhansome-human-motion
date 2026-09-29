@@ -46,7 +46,7 @@
             "open_issues": 17,
             "owner": "gulvarol",
             "repo": "surreal",
-            "stars": 618,
+            "stars": 619,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:44.396Z"
@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8607,
+                "stars": 8608,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -308,7 +308,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7260,
+                "stars": 7259,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -329,7 +329,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4049,
+                "stars": 4050,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -350,7 +350,7 @@
                 "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1670,
+                "stars": 1671,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -371,7 +371,7 @@
                 "open_issues": 32,
                 "owner": "una-dinosauria",
                 "repo": "3d-pose-baseline",
-                "stars": 1462,
+                "stars": 1461,
                 "topics": [
                   "3d-vision",
                   "baseline",
@@ -420,7 +420,7 @@
                 "open_issues": 23,
                 "owner": "weigq",
                 "repo": "3d_pose_baseline_pytorch",
-                "stars": 378,
+                "stars": 377,
                 "topics": [
                   "3d-pose-estimation",
                   "computer-vision",
@@ -558,7 +558,7 @@
                 "open_issues": 49,
                 "owner": "csu-hmc",
                 "repo": "GaitAnalysisToolKit",
-                "stars": 121,
+                "stars": 123,
                 "topics": [
                   "biomechanics",
                   "control",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:46:11.422Z",
+    "last_updated": "2026-09-29T19:37:04.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",

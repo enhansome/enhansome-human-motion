@@ -28,7 +28,7 @@
 
 ## Datasets
 
-* [SURREAL](https://github.com/gulvarol/surreal) ⭐ 618 | 🐛 17 | 🌐 Lua | 📅 2021-06-04 - Learning from Synthetic Humans, CVPR 2017
+* [SURREAL](https://github.com/gulvarol/surreal) ⭐ 619 | 🐛 17 | 🌐 Lua | 📅 2021-06-04 - Learning from Synthetic Humans, CVPR 2017
 * [Human 3.6M](http://vision.imar.ro/human3.6m/description.php) - Large Scale Datasets and Predictive Methodsfor 3D Human Sensing in Natural Environments
 * [CMU](http://mocap.cs.cmu.edu/) - Carnegie Mellon University Motion Capture Database
 * [Berkley MHAD](http://tele-immersion.citris-uc.org/berkeley_mhad#hard) - \[📷🎥🎤🤾‍♀️⌚️🤹‍♀️]\[👨‍🦰👩]\[👧👵] - The Berkeley Multimodal Human Action Database (MHAD) contains 11 actions performed by 7 male and 5 female subjects in the range 23-30 years of age except for one elderly subject.
@@ -73,11 +73,11 @@
 
 ### Implementations
 
-* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,607 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
+* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,608 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 * [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) ⚠️ Archived - Efficient 3D human pose estimation in video using 2D keypoint trajectorie.
-* [Human Shape and Pose](https://github.com/akanazawa/hmr) ⭐ 1,670 | 🐛 19 | 🌐 Python | 📅 2023-07-10 -  End-to-end Recovery of Human Shape and Pose - CVPR 2018
-* [3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) ⭐ 1,462 | 🐛 32 | 🌐 Python | 📅 2020-09-26 - A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.
+* [Human Shape and Pose](https://github.com/akanazawa/hmr) ⭐ 1,671 | 🐛 19 | 🌐 Python | 📅 2023-07-10 -  End-to-end Recovery of Human Shape and Pose - CVPR 2018
+* [3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) ⭐ 1,461 | 🐛 32 | 🌐 Python | 📅 2020-09-26 - A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.
 * [3Dpose\_ssl](https://github.com/chanyn/3Dpose_ssl) ⭐ 413 | 🐛 10 | 🌐 C++ | 📅 2020-02-07 - 3D Human Pose Machines with Self-supervised Learning.
 * [3d\_pose\_baseline\_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch) ⚠️ Archived - A simple baseline for 3d human pose estimation in PyTorch.
 * [3dpose\_gan](https://github.com/DwangoMediaVillage/3dpose_gan) ⭐ 143 | 🐛 12 | 🌐 Python | 📅 2018-07-12 - The authors' implementation of Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations.
@@ -89,7 +89,7 @@
 
 ### Implementations
 
-* [GaitAnalysisToolKit](https://github.com/csu-hmc/GaitAnalysisToolKit) ⭐ 121 | 🐛 49 | 🌐 Python | 📅 2026-09-03 - Tools for the Cleveland State Human Motion and Control Lab.
+* [GaitAnalysisToolKit](https://github.com/csu-hmc/GaitAnalysisToolKit) ⭐ 123 | 🐛 49 | 🌐 Python | 📅 2026-09-03 - Tools for the Cleveland State Human Motion and Control Lab.
 * [sensormotion](https://github.com/sho-87/sensormotion) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2025-05-18 - Python package for analyzing sensor-collected human motion data (e.g. physical activity levels, gait dynamics).
 * [Human-detection-system-with-raspberry-Pi](https://github.com/OmalPerera/Human-detection-system-with-raspberry-Pi) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2018-01-28 - A motion detection system with RaspberryPi, OpenCV, Python.
 * [Posture and Fall Detection System Using 3D Motion Sensors](https://github.com/Health-Devices-Research-Group/Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors) ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2018-06-05 - This work presents a supervised learning approach for training a posture detection classifier, and implementing a fall detection system using the posture classification results as inputs with a Microsoft Kinect v2 sensor.
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
