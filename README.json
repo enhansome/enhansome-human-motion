@@ -691,7 +691,7 @@
             {
               "node_type": "item",
               "title": "human motion classification",
-              "description": null,
+              "description": "kubapok/human-motion-classification",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -754,7 +754,7 @@
             {
               "node_type": "item",
               "title": "human motion analysis",
-              "description": null,
+              "description": "dfsdfb/human-motion-analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:29:31.296Z",
+    "last_updated": "2026-10-03T04:49:25.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
