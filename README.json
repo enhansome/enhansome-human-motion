@@ -308,7 +308,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7262,
+                "stars": 7261,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -371,7 +371,7 @@
                 "open_issues": 32,
                 "owner": "una-dinosauria",
                 "repo": "3d-pose-baseline",
-                "stars": 1461,
+                "stars": 1462,
                 "topics": [
                   "3d-vision",
                   "baseline",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:37:43.249Z",
+    "last_updated": "2026-10-06T19:48:03.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
