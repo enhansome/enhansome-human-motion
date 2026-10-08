@@ -46,7 +46,7 @@
             "open_issues": 17,
             "owner": "gulvarol",
             "repo": "surreal",
-            "stars": 619,
+            "stars": 620,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:44.396Z"
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:07:55.788Z",
+    "last_updated": "2026-10-08T20:05:51.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",

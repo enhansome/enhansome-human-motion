@@ -28,7 +28,7 @@
 
 ## Datasets
 
-* [SURREAL](https://github.com/gulvarol/surreal) ⭐ 619 | 🐛 17 | 🌐 Lua | 📅 2021-06-04 - Learning from Synthetic Humans, CVPR 2017
+* [SURREAL](https://github.com/gulvarol/surreal) ⭐ 620 | 🐛 17 | 🌐 Lua | 📅 2021-06-04 - Learning from Synthetic Humans, CVPR 2017
 * [Human 3.6M](http://vision.imar.ro/human3.6m/description.php) - Large Scale Datasets and Predictive Methodsfor 3D Human Sensing in Natural Environments
 * [CMU](http://mocap.cs.cmu.edu/) - Carnegie Mellon University Motion Capture Database
 * [Berkley MHAD](http://tele-immersion.citris-uc.org/berkeley_mhad#hard) - \[📷🎥🎤🤾‍♀️⌚️🤹‍♀️]\[👨‍🦰👩]\[👧👵] - The Berkeley Multimodal Human Action Database (MHAD) contains 11 actions performed by 7 male and 5 female subjects in the range 23-30 years of age except for one elderly subject.
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
