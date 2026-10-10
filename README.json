@@ -329,7 +329,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4050,
+                "stars": 4049,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -399,7 +399,7 @@
                 "open_issues": 10,
                 "owner": "chanyn",
                 "repo": "3Dpose_ssl",
-                "stars": 413,
+                "stars": 412,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -420,7 +420,7 @@
                 "open_issues": 23,
                 "owner": "weigq",
                 "repo": "3d_pose_baseline_pytorch",
-                "stars": 377,
+                "stars": 376,
                 "topics": [
                   "3d-pose-estimation",
                   "computer-vision",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:43:07.127Z",
+    "last_updated": "2026-10-10T18:49:19.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
