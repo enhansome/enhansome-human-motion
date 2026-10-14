@@ -124,7 +124,7 @@
                 "open_issues": 26,
                 "owner": "Dene33",
                 "repo": "video_to_bvh",
-                "stars": 402,
+                "stars": 401,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8611,
+                "stars": 8610,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:20:05.468Z",
+    "last_updated": "2026-10-14T18:51:33.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
