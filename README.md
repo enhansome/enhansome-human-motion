@@ -28,7 +28,7 @@
 
 ## Datasets
 
-* [SURREAL](https://github.com/gulvarol/surreal) ⭐ 620 | 🐛 17 | 🌐 Lua | 📅 2021-06-04 - Learning from Synthetic Humans, CVPR 2017
+* [SURREAL](https://github.com/gulvarol/surreal) ⭐ 621 | 🐛 17 | 🌐 Lua | 📅 2021-06-04 - Learning from Synthetic Humans, CVPR 2017
 * [Human 3.6M](http://vision.imar.ro/human3.6m/description.php) - Large Scale Datasets and Predictive Methodsfor 3D Human Sensing in Natural Environments
 * [CMU](http://mocap.cs.cmu.edu/) - Carnegie Mellon University Motion Capture Database
 * [Berkley MHAD](http://tele-immersion.citris-uc.org/berkeley_mhad#hard) - \[📷🎥🎤🤾‍♀️⌚️🤹‍♀️]\[👨‍🦰👩]\[👧👵] - The Berkeley Multimodal Human Action Database (MHAD) contains 11 actions performed by 7 male and 5 female subjects in the range 23-30 years of age except for one elderly subject.
@@ -73,7 +73,7 @@
 
 ### Implementations
 
-* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,610 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
+* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,609 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 * [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) ⚠️ Archived - Efficient 3D human pose estimation in video using 2D keypoint trajectorie.
 * [Human Shape and Pose](https://github.com/akanazawa/hmr) ⭐ 1,671 | 🐛 19 | 🌐 Python | 📅 2023-07-10 -  End-to-end Recovery of Human Shape and Pose - CVPR 2018
@@ -90,7 +90,7 @@
 ### Implementations
 
 * [GaitAnalysisToolKit](https://github.com/csu-hmc/GaitAnalysisToolKit) ⭐ 123 | 🐛 49 | 🌐 Python | 📅 2026-09-03 - Tools for the Cleveland State Human Motion and Control Lab.
-* [sensormotion](https://github.com/sho-87/sensormotion) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2025-05-18 - Python package for analyzing sensor-collected human motion data (e.g. physical activity levels, gait dynamics).
+* [sensormotion](https://github.com/sho-87/sensormotion) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2025-05-18 - Python package for analyzing sensor-collected human motion data (e.g. physical activity levels, gait dynamics).
 * [Human-detection-system-with-raspberry-Pi](https://github.com/OmalPerera/Human-detection-system-with-raspberry-Pi) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2018-01-28 - A motion detection system with RaspberryPi, OpenCV, Python.
 * [Posture and Fall Detection System Using 3D Motion Sensors](https://github.com/Health-Devices-Research-Group/Posture-and-Fall-Detection-System-Using-3D-Motion-Sensors) ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2018-06-05 - This work presents a supervised learning approach for training a posture detection classifier, and implementing a fall detection system using the posture classification results as inputs with a Microsoft Kinect v2 sensor.
 * [motion classification](https://github.com/matthiasplappert/motion-classification) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2016-07-11 - The code written during my Bachelor Thesis "Classification of Human Whole-Body Motion using Hidden Markov Models".
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

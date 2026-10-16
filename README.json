@@ -46,7 +46,7 @@
             "open_issues": 17,
             "owner": "gulvarol",
             "repo": "surreal",
-            "stars": 620,
+            "stars": 621,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:44.396Z"
@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8610,
+                "stars": 8609,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -584,7 +584,7 @@
                 "open_issues": 0,
                 "owner": "thesimonho",
                 "repo": "sensormotion",
-                "stars": 94,
+                "stars": 93,
                 "topics": [
                   "accelerometer",
                   "actigraphy",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:37:18.691Z",
+    "last_updated": "2026-10-16T18:19:38.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
