@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8610,
+                "stars": 8612,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -371,7 +371,7 @@
                 "open_issues": 32,
                 "owner": "una-dinosauria",
                 "repo": "3d-pose-baseline",
-                "stars": 1463,
+                "stars": 1464,
                 "topics": [
                   "3d-vision",
                   "baseline",
@@ -801,7 +801,7 @@
                 "open_issues": 12,
                 "owner": "akanazawa",
                 "repo": "motion_reconstruction",
-                "stars": 329,
+                "stars": 330,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -822,7 +822,7 @@
                 "open_issues": 4,
                 "owner": "AliJalalifar",
                 "repo": "Character_Animation",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:53:26.070Z",
+    "last_updated": "2026-10-22T18:46:25.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
