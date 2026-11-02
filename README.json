@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8613,
+                "stars": 8614,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -584,7 +584,7 @@
                 "open_issues": 0,
                 "owner": "thesimonho",
                 "repo": "sensormotion",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "accelerometer",
                   "actigraphy",
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:10:53.199Z",
+    "last_updated": "2026-11-02T22:52:12.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
