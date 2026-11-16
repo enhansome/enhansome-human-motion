@@ -73,7 +73,7 @@
 
 ### Implementations
 
-* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,626 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
+* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,629 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 * [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) ⚠️ Archived - Efficient 3D human pose estimation in video using 2D keypoint trajectorie.
 * [Human Shape and Pose](https://github.com/akanazawa/hmr) ⭐ 1,673 | 🐛 19 | 🌐 Python | 📅 2023-07-10 -  End-to-end Recovery of Human Shape and Pose - CVPR 2018
@@ -104,7 +104,7 @@
 
 ### Implementations
 
-* [Skills from Videos](https://github.com/akanazawa/motion_reconstruction) ⭐ 330 | 🐛 12 | 🌐 Python | 📅 2022-09-16 - Motion Reconstruction Code and Data for Skills from Videos (SFV)
+* [Skills from Videos](https://github.com/akanazawa/motion_reconstruction) ⭐ 331 | 🐛 12 | 🌐 Python | 📅 2022-09-16 - Motion Reconstruction Code and Data for Skills from Videos (SFV)
 * [Character Animation](https://github.com/AliJalalifar/Character_Animation) ⭐ 114 | 🐛 4 | 🌐 Python | 📅 2018-01-31 - A Re-implementation of the paper "A Deep Learning Framework for Character Motion Synthesis and Editing".
 * [Auto Conditioned RNN motion](https://github.com/papagina/Auto_Conditioned_RNN_motion) ⭐ 67 | 🐛 9 | 🌐 Python | 📅 2019-03-03 - Implementation of Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis.
 * [eccv18\_mtvae
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
