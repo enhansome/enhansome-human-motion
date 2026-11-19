@@ -73,15 +73,15 @@
 
 ### Implementations
 
-* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,631 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
+* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,630 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - Real-Time and Accurate Multi-Person Pose Estimation\&Tracking System.
 * [DensePose](https://github.com/facebookresearch/DensePose) ⚠️ Archived - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 * [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) ⚠️ Archived - Efficient 3D human pose estimation in video using 2D keypoint trajectorie.
-* [Human Shape and Pose](https://github.com/akanazawa/hmr) ⭐ 1,674 | 🐛 19 | 🌐 Python | 📅 2023-07-10 -  End-to-end Recovery of Human Shape and Pose - CVPR 2018
-* [3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) ⭐ 1,467 | 🐛 32 | 🌐 Python | 📅 2020-09-26 - A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.
+* [Human Shape and Pose](https://github.com/akanazawa/hmr) ⭐ 1,673 | 🐛 19 | 🌐 Python | 📅 2023-07-10 -  End-to-end Recovery of Human Shape and Pose - CVPR 2018
+* [3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) ⭐ 1,466 | 🐛 32 | 🌐 Python | 📅 2020-09-26 - A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.
 * [3Dpose\_ssl](https://github.com/chanyn/3Dpose_ssl) ⭐ 411 | 🐛 10 | 🌐 C++ | 📅 2020-02-07 - 3D Human Pose Machines with Self-supervised Learning.
 * [3d\_pose\_baseline\_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch) ⚠️ Archived - A simple baseline for 3d human pose estimation in PyTorch.
 * [3dpose\_gan](https://github.com/DwangoMediaVillage/3dpose_gan) ⭐ 143 | 🐛 12 | 🌐 Python | 📅 2018-07-12 - The authors' implementation of Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations.
-* [3D-HourGlass-Network](https://github.com/Naman-ntc/3D-HourGlass-Network) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2018-10-28 - 3D HourGlass Networks for Human Pose Estimation Through Videos.
+* [3D-HourGlass-Network](https://github.com/Naman-ntc/3D-HourGlass-Network) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2018-10-28 - 3D HourGlass Networks for Human Pose Estimation Through Videos.
 * [3d-pose-estimation](https://github.com/latte0/3d-pose-estimation) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2017-10-31 - VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera.
 * [adversarially\_parameterized\_optimization](https://github.com/jackd/adversarially_parameterized_optimization) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2017-11-21 - GAN-based 3D human pose estimation.
 
@@ -104,7 +104,7 @@
 
 ### Implementations
 
-* [Skills from Videos](https://github.com/akanazawa/motion_reconstruction) ⭐ 331 | 🐛 12 | 🌐 Python | 📅 2022-09-16 - Motion Reconstruction Code and Data for Skills from Videos (SFV)
+* [Skills from Videos](https://github.com/akanazawa/motion_reconstruction) ⭐ 330 | 🐛 12 | 🌐 Python | 📅 2022-09-16 - Motion Reconstruction Code and Data for Skills from Videos (SFV)
 * [Character Animation](https://github.com/AliJalalifar/Character_Animation) ⭐ 114 | 🐛 4 | 🌐 Python | 📅 2018-01-31 - A Re-implementation of the paper "A Deep Learning Framework for Character Motion Synthesis and Editing".
 * [Auto Conditioned RNN motion](https://github.com/papagina/Auto_Conditioned_RNN_motion) ⭐ 67 | 🐛 9 | 🌐 Python | 📅 2019-03-03 - Implementation of Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis.
 * [eccv18\_mtvae
@@ -193,4 +193,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

@@ -266,7 +266,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8631,
+                "stars": 8630,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -308,7 +308,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7259,
+                "stars": 7258,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -329,7 +329,7 @@
                 "open_issues": 161,
                 "owner": "facebookresearch",
                 "repo": "VideoPose3D",
-                "stars": 4064,
+                "stars": 4061,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -350,7 +350,7 @@
                 "open_issues": 19,
                 "owner": "akanazawa",
                 "repo": "hmr",
-                "stars": 1674,
+                "stars": 1673,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -371,7 +371,7 @@
                 "open_issues": 32,
                 "owner": "una-dinosauria",
                 "repo": "3d-pose-baseline",
-                "stars": 1467,
+                "stars": 1466,
                 "topics": [
                   "3d-vision",
                   "baseline",
@@ -472,7 +472,7 @@
                 "open_issues": 0,
                 "owner": "Naman-ntc",
                 "repo": "3D-HourGlass-Network",
-                "stars": 56,
+                "stars": 55,
                 "topics": [
                   "3d-cnn",
                   "3d-human-pose",
@@ -801,7 +801,7 @@
                 "open_issues": 12,
                 "owner": "akanazawa",
                 "repo": "motion_reconstruction",
-                "stars": 331,
+                "stars": 330,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:17:54.465Z",
+    "last_updated": "2026-11-19T22:25:25.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
