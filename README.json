@@ -308,7 +308,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7259,
+                "stars": 7260,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:44.396Z"
@@ -1011,7 +1011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:39:25.205Z",
+    "last_updated": "2026-11-22T20:49:09.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏃‍♀️ A curated list about human motion capture, analysis and synthesis.",
@@ -1023,7 +1023,7 @@
       "open_issues": 1,
       "owner": "derikon",
       "repo": "awesome-human-motion",
-      "stars": 495,
+      "stars": 496,
       "topics": [
         "awesome",
         "awesome-list",
